@@ -1,2 +1,2 @@
 # Primeiros passos
- acompanhando guanabara
+ acompanhando guanabara e aprendendo git e github
